@@ -1,0 +1,10 @@
+config.py
+.idea/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.csv
+*.pkl
+.env
+__pycache__/
